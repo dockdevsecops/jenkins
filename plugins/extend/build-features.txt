@@ -1,0 +1,6 @@
+build-name-setter:latest
+config-file-provider:latest
+embeddable-build-status:latest
+rebuild:latest
+ssh-agent:latest
+throttle-concurrents:latest

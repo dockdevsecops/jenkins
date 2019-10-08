@@ -1,2 +1,2 @@
-git-parameter:latest
 gitlab-plugin:latest
+git-parameter:latest
