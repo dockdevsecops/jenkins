@@ -1,7 +1,0 @@
-#teamconcert:latest
-#repo:latest
-#p4:latest
-#github:latest
-#cvs:latest
-#clearcase:latest
-#bitbucket:latest

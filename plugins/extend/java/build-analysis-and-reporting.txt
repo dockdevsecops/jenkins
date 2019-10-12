@@ -1,2 +1,2 @@
-#checkstyle:latest
+checkstyle:latest
 junit:latest

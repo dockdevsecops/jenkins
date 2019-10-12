@@ -1,2 +1,1 @@
 locale:latest
-#localization-zh-cn
