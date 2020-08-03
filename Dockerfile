@@ -1,4 +1,4 @@
-FROM jenkins/jenkins:latest
+FROM jenkins/jenkins:alpine
 
 COPY plugins /tmp/plugins
 RUN /tmp/plugins/create-plugins-list.sh
